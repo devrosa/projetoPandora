@@ -1,2 +1,2 @@
 # projetoPandora
-API Laravel.
+API Laravel..
